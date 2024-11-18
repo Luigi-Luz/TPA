@@ -1,0 +1,7 @@
+D:\1EETIMTPA\PROGRAMAS\Con_Exemplo01\Con_Exemplo01\bin\Debug\Con_Exemplo01.exe.config
+D:\1EETIMTPA\PROGRAMAS\Con_Exemplo01\Con_Exemplo01\bin\Debug\Con_Exemplo01.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Exemplo01\Con_Exemplo01\bin\Debug\Con_Exemplo01.pdb
+D:\1EETIMTPA\PROGRAMAS\Con_Exemplo01\Con_Exemplo01\obj\Debug\Con_Exemplo01.csproj.AssemblyReference.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Exemplo01\Con_Exemplo01\obj\Debug\Con_Exemplo01.csproj.CoreCompileInputs.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Exemplo01\Con_Exemplo01\obj\Debug\Con_Exemplo01.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Exemplo01\Con_Exemplo01\obj\Debug\Con_Exemplo01.pdb

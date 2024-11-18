@@ -1,0 +1,7 @@
+D:\1EETIMTPA\PROGRAMAS\Con_Herança\Con_Herança\bin\Debug\Con_Herança.exe.config
+D:\1EETIMTPA\PROGRAMAS\Con_Herança\Con_Herança\bin\Debug\Con_Herança.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Herança\Con_Herança\bin\Debug\Con_Herança.pdb
+D:\1EETIMTPA\PROGRAMAS\Con_Herança\Con_Herança\obj\Debug\Con_Herança.csproj.AssemblyReference.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Herança\Con_Herança\obj\Debug\Con_Herança.csproj.CoreCompileInputs.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Herança\Con_Herança\obj\Debug\Con_Herança.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Herança\Con_Herança\obj\Debug\Con_Herança.pdb

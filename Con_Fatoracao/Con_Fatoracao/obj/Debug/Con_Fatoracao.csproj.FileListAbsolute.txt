@@ -1,0 +1,7 @@
+D:\1EETIMTPA\PROGRAMAS\Con_Fatoracao\Con_Fatoracao\bin\Debug\Con_Fatoracao.exe.config
+D:\1EETIMTPA\PROGRAMAS\Con_Fatoracao\Con_Fatoracao\bin\Debug\Con_Fatoracao.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Fatoracao\Con_Fatoracao\bin\Debug\Con_Fatoracao.pdb
+D:\1EETIMTPA\PROGRAMAS\Con_Fatoracao\Con_Fatoracao\obj\Debug\Con_Fatoracao.csproj.AssemblyReference.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Fatoracao\Con_Fatoracao\obj\Debug\Con_Fatoracao.csproj.CoreCompileInputs.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Fatoracao\Con_Fatoracao\obj\Debug\Con_Fatoracao.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Fatoracao\Con_Fatoracao\obj\Debug\Con_Fatoracao.pdb

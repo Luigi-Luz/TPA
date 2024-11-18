@@ -1,0 +1,7 @@
+D:\1EETIMTPA\PROGRAMAS\Con_Abacate\Con_Abacate\bin\Debug\Con_Abacate.exe.config
+D:\1EETIMTPA\PROGRAMAS\Con_Abacate\Con_Abacate\bin\Debug\Con_Abacate.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Abacate\Con_Abacate\bin\Debug\Con_Abacate.pdb
+D:\1EETIMTPA\PROGRAMAS\Con_Abacate\Con_Abacate\obj\Debug\Con_Abacate.csproj.AssemblyReference.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Abacate\Con_Abacate\obj\Debug\Con_Abacate.csproj.CoreCompileInputs.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Abacate\Con_Abacate\obj\Debug\Con_Abacate.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Abacate\Con_Abacate\obj\Debug\Con_Abacate.pdb

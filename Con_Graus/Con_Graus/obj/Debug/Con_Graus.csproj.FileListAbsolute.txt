@@ -1,0 +1,7 @@
+D:\1EETIMTPA\PROGRAMAS\Con_Graus\Con_Graus\obj\Debug\Con_Graus.csproj.AssemblyReference.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Graus\Con_Graus\obj\Debug\Con_Graus.csproj.CoreCompileInputs.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Graus\Con_Graus\bin\Debug\Con_Graus.exe.config
+D:\1EETIMTPA\PROGRAMAS\Con_Graus\Con_Graus\bin\Debug\Con_Graus.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Graus\Con_Graus\bin\Debug\Con_Graus.pdb
+D:\1EETIMTPA\PROGRAMAS\Con_Graus\Con_Graus\obj\Debug\Con_Graus.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Graus\Con_Graus\obj\Debug\Con_Graus.pdb

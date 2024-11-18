@@ -1,0 +1,7 @@
+D:\1EETIMTPA\PROGRAMAS\Con_Combustivel\Con_Combustivel\bin\Debug\Con_Combustivel.exe.config
+D:\1EETIMTPA\PROGRAMAS\Con_Combustivel\Con_Combustivel\bin\Debug\Con_Combustivel.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Combustivel\Con_Combustivel\bin\Debug\Con_Combustivel.pdb
+D:\1EETIMTPA\PROGRAMAS\Con_Combustivel\Con_Combustivel\obj\Debug\Con_Combustivel.csproj.AssemblyReference.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Combustivel\Con_Combustivel\obj\Debug\Con_Combustivel.csproj.CoreCompileInputs.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Combustivel\Con_Combustivel\obj\Debug\Con_Combustivel.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Combustivel\Con_Combustivel\obj\Debug\Con_Combustivel.pdb

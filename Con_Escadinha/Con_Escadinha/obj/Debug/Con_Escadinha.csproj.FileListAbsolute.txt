@@ -1,0 +1,7 @@
+D:\1EETIMTPA\PROGRAMAS\Con_Escadinha\Con_Escadinha\obj\Debug\Con_Escadinha.csproj.AssemblyReference.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Escadinha\Con_Escadinha\obj\Debug\Con_Escadinha.csproj.CoreCompileInputs.cache
+D:\1EETIMTPA\PROGRAMAS\Con_Escadinha\Con_Escadinha\bin\Debug\Con_Escadinha.exe.config
+D:\1EETIMTPA\PROGRAMAS\Con_Escadinha\Con_Escadinha\bin\Debug\Con_Escadinha.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Escadinha\Con_Escadinha\bin\Debug\Con_Escadinha.pdb
+D:\1EETIMTPA\PROGRAMAS\Con_Escadinha\Con_Escadinha\obj\Debug\Con_Escadinha.exe
+D:\1EETIMTPA\PROGRAMAS\Con_Escadinha\Con_Escadinha\obj\Debug\Con_Escadinha.pdb
